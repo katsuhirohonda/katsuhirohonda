@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F765&width=435&lines=Welcome+to+my+profile!;My+favorite+language+is+Rust+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 <!--
 **katsuhirohonda/katsuhirohonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
