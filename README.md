@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=katsuhirohonda&title=-Stars,-Reviews,-Followers" alt="katsuhirohonda" />
+    <img src="https://github-profile-trophy.vercel.app/?username=katsuhirohonda&title=rank=SSS,SS,S,AAA,AA,A&theme=darkhub" alt="katsuhirohonda" />
   </a> 
 </p>
 
