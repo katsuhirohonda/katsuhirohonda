@@ -8,14 +8,12 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=katsuhirohonda&title=-Stars,-Followers,-Reviews&theme=darkhub" alt="katsuhirohonda" />
+    <img src="https://github-profile-trophy.vercel.app/?username=katsuhirohonda&title=-Stars,-Followers,rank=-AAA,-AA,-A,-B,-C,-Reviews&theme=darkhub" alt="katsuhirohonda" />
   </a> 
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuhirohonda&count_private=true&show_icons=true&theme=darkhub" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=katsuhirohonda&count_private=true&show_icons=true&show_icons=true&theme=darkhub&hide=contribs,issues,prs" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katsuhirohonda&theme=onedark" alt="katsuhirohonda" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katsuhirohonda&theme=dark" alt="katsuhirohonda" />
 </p>
 
 <!--
