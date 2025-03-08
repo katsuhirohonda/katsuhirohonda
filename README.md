@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+simply+having+fun+exploring+;the+world+of+programming+and+plan+to+;keep+creating+things+forever.)](https://git.io/typing-svg)
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=katsuhirohonda&hide=prs,stars,contribs" alt="katsuhirohonda" />
+   <img src="https://komarev.com/ghpvc/?username=katsuhirohonda&color=blueviolet" alt="katsuhirohonda" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=katsuhirohonda&theme=onedark&column=7" alt="katsuhirohonda" />
+    <img src="https://github-profile-trophy.vercel.app/?username=katsuhirohonda&theme=onedark&hide=prs,stars,contribs" alt="katsuhirohonda" />
   </a> 
 </p>
 
