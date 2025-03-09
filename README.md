@@ -12,9 +12,7 @@
   </a> 
 </p>
 
-<p align="left"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katsuhirohonda&theme=darcula" alt="katsuhirohonda" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katsuhirohonda)](https://git.io/streak-stats)
 
 <!--
 **katsuhirohonda/katsuhirohonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
