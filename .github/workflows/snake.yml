@@ -11,6 +11,8 @@ on:
 # The sequence of runs in this workflow:
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
